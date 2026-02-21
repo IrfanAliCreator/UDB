@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 3.4.1,
-  "messageText": "<b>This Version Has Expired!</b>\n\nTrack My Train new Update Available:\n 1: Tracking issues fixed\n 2: Some Train Not Found fixed\n 3: Better App Experience",
+  "messageText": "This Version Has Expired!\n\nTrack My Train new Update Available:\n\n 1: Tracking issues fixed\n 2: Some Train Not Found fixed\n 3: Better App Experience",
   "updateButtonText": "Update",
   "updateButtonLink": "https://pak-railways.blogspot.com",
   "updateButtonGradientStartColor": "#00cb3f",
