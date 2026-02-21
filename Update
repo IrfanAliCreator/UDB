@@ -5,11 +5,11 @@
   "updateButtonText": "Update",
   "updateButtonLink": "https://pak-railways.blogspot.com",
   "updateButtonGradientStartColor": "#00cb3f",
-  "updateButtonGradientEndColor": "#64B5F6",
+  "updateButtonGradientEndColor": "#00cb95",
   "cancelButtonText": "Cancel",
   "cancelClosesApp": false,
   "cancelButtonGradientStartColor": "#00cb3f",
-  "cancelButtonGradientEndColor": "#64B5F6",
+  "cancelButtonGradientEndColor": "#00cb95",
   "textGradientStartColor": "#FF0000",
   "textGradientEndColor": "#B71C1C",
   "dialogBackgroundColor": "#FFFFFF"
