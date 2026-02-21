@@ -7,7 +7,7 @@
   "updateButtonGradientStartColor": "#00cb3f",
   "updateButtonGradientEndColor": "#00cb95",
   "cancelButtonText": "Cancel",
-  "cancelClosesApp": false,
+  "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#00cb3f",
   "cancelButtonGradientEndColor": "#00cb95",
   "textGradientStartColor": "#FF0000",
