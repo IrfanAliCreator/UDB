@@ -10,12 +10,12 @@
   ],
   "sound": true,
   "vibrate": true,
-  "expires": "2025-09-01T12:00:00",
-  "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
+  "expires": "",
+  "image": "https://i.postimg.cc/gc4zkv2J/IMG-20260222-WA0002.jpg",
   "actions": [
     {
       "title": "VISIT",
-      "url": "https://r3-tool.pages.dev/"
+      "url": "https://www.youtube.com"
     },
     {
       "title": "LATER"
