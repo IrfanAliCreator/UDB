@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "title": "R3 TOOLS UPDATED",
+  "message": "ADDED MORE HACKING TOOLS",
+  "style": "inbox",
+"lines":[, ""],
+  "sound": true,
+  "vibrate": true,
+  "expires": "2025-09-01T12:00:00",
+  "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
+  "actions": [
+    {
+      "title": "VISIT",
+      "url":    "https://r3-tool.pages.dev/"
+    },
+    {
+      "title": "LETER"
+    }
+  ]
+}
+
+// StyleType: bigtext|bigpicture|inbox
