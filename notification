@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome Update",
+    "message": "Ye BigText notification hai jo background mein har 10 min baad check hota hai.",
+    "image": "",
+    "url": "https://google.com",
+    "expires": ""
+  },
+  {
+    "id": 2,
+    "title": "New Tool Image",
+    "message": "Check this BigPicture!",
+    "image": "https://pish.com/image.jpg",
+    "url": "https://t.me/yourchannel",
+    "expires": "2026-12-31"
+  }
+]
