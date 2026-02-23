@@ -4,15 +4,15 @@
     "title": "Welcome Update",
     "message": "Ye BigText notification hai jo background mein har 10 min baad check hota hai.",
     "image": "",
-    "url": "https://google.com",
+    "url": "https://www.toolzin.com",
     "expires": ""
   },
   {
     "id": 2,
     "title": "New Tool Image",
     "message": "Check this BigPicture!",
-    "image": "https://pish.com/image.jpg",
-    "url": "https://t.me/yourchannel",
+    "image": "https://i.postimg.cc/gc4zkv2J/IMG-20260222-WA0002.jpg",
+    "url": "https://www.youtube.com",
     "expires": "2026-12-31"
   }
 ]
